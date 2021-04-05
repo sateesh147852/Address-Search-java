@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Address Search</string>
+    <string name="google_maps_key" >{Api key}</string>
+</resources>
